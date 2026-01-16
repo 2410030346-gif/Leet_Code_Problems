@@ -1,3 +1,5 @@
+import java.util.HashMap;
+
 class Problem_13{
     public int romanToInt(String s) {
         HashMap<Character,Integer> hm=new HashMap<Character,Integer>();
